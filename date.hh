@@ -6,10 +6,8 @@
  *
  * Note: Students need not change this class, but they can if necessary.
  * ----------
- * Author information:
+ * Author information for the rest of the project, not this specific class:
  * Name: Sophie Tötterström
- * Student ID: 050102822
- * Username: knsoto
  * Email: sophie.totterstrom@tuni.fi
 */
 
