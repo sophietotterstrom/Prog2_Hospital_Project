@@ -7,8 +7,6 @@
  * ----------
  * Author information:
  * Name: Sophie Tötterström
- * Student ID: 050102822
- * Username: knsoto
  * Email: sophie.totterstrom@tuni.fi
 */
 
